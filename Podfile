@@ -8,5 +8,9 @@ target 'SMRTDontBluffMe' do
   # Pods for SMRTDontBluffMe
 
 pod 'Firebase'
+pod 'Firebase/Core'
+pod 'Firebase/Auth'
+pod 'Firebase/Database'
+pod 'Firebase/Storage'
 
 end
