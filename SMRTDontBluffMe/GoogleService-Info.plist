@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>447072020922-t2bc9uslqlavi48fh6shd3cmuomrafj1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.447072020922-t2bc9uslqlavi48fh6shd3cmuomrafj1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCKHIQojjmwH0WVFiJ8fOpEQrJk0Uwqlro</string>
+	<key>GCM_SENDER_ID</key>
+	<string>447072020922</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AndrewNg.SMRTDontBluffMe</string>
+	<key>PROJECT_ID</key>
+	<string>smrtdontbluffme</string>
+	<key>STORAGE_BUCKET</key>
+	<string>smrtdontbluffme.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:447072020922:ios:1b68b78d26be8bee</string>
+	<key>DATABASE_URL</key>
+	<string>https://smrtdontbluffme.firebaseio.com</string>
+</dict>
+</plist>
